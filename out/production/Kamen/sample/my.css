@@ -1,0 +1,32 @@
+#gridpane {
+-fx-background-image: url('images/22.jpg');
+}
+#btnkam {
+-fx-background-image: url('images/22804.jpg');
+-fx-text-fill: yellow;
+}
+#btnsci {
+-fx-background-image: url('images/22804.jpg');
+-fx-text-fill: yellow;
+}
+#btnbum {
+-fx-background-image: url('images/22804.jpg');
+-fx-text-fill: yellow;
+}
+
+#cb {
+-fx-background-image: url('images/23.jpg');
+}
+
+#btnkam:hover {
+-fx-padding: 0 0 10px 0;
+-fx-font-weight: bold;
+}
+#btnsci:hover {
+-fx-padding: 0 0 10px 0;
+-fx-font-weight: bold;
+}
+#btnbum:hover {
+-fx-padding: 0 0 10px 0;
+-fx-font-weight: bold;
+}
